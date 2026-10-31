@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmploymentOffice/EmploymentOffice.csproj" />
+  <Project Path="Human/Human.csproj" />
+  <Project Path="Managementapp/Managementapp.csproj" />
+</Solution>

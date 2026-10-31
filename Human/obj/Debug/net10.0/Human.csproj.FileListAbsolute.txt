@@ -1,0 +1,11 @@
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\bin\Debug\net10.0\Human.deps.json
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\bin\Debug\net10.0\Human.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\bin\Debug\net10.0\Human.pdb
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.AssemblyInfoInputs.cache
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.AssemblyInfo.cs
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.csproj.CoreCompileInputs.cache
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\refint\Human.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\Human.pdb
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Human\obj\Debug\net10.0\ref\Human.dll

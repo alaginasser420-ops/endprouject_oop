@@ -1,0 +1,2 @@
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Management\obj\Debug\Management.csproj.AssemblyReference.cache
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache

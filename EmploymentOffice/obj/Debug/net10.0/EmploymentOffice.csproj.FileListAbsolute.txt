@@ -1,0 +1,11 @@
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\bin\Debug\net10.0\EmploymentOffice.deps.json
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\bin\Debug\net10.0\EmploymentOffice.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\bin\Debug\net10.0\EmploymentOffice.pdb
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.GeneratedMSBuildEditorConfig.editorconfig
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.AssemblyInfoInputs.cache
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.AssemblyInfo.cs
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.csproj.CoreCompileInputs.cache
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\refint\EmploymentOffice.dll
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\EmploymentOffice.pdb
+F:\مشاريع السي شارب  فيجوال استديو\EndProject\EmploymentOffice\obj\Debug\net10.0\ref\EmploymentOffice.dll
